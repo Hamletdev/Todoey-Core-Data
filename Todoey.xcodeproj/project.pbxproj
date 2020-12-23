@@ -15,6 +15,7 @@
 		DA22AF162573C008004B33A7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DA22AF142573C008004B33A7 /* LaunchScreen.storyboard */; };
 		DA22AF1F2573C8CE004B33A7 /* ToDoItemCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA22AF1E2573C8CE004B33A7 /* ToDoItemCell.swift */; };
 		DA4173EB257564D100E560B4 /* TodoeyCoreData.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = DA4173E9257564D100E560B4 /* TodoeyCoreData.xcdatamodeld */; };
+		DA4D37A125936EC800BE2EAA /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = DA4D37A025936EC700BE2EAA /* README.md */; };
 		DAC7AF43257579F500172C6D /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = DAC7AF42257579F500172C6D /* Default-568h@2x.png */; };
 		DAE93C13257745C200EA8447 /* CategoryViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DAE93C12257745C200EA8447 /* CategoryViewController.swift */; };
 		DAE93C152577465A00EA8447 /* CategoryViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = DAE93C142577465A00EA8447 /* CategoryViewCell.swift */; };
@@ -30,6 +31,7 @@
 		DA22AF152573C008004B33A7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		DA22AF1E2573C8CE004B33A7 /* ToDoItemCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToDoItemCell.swift; sourceTree = "<group>"; };
 		DA4173EA257564D100E560B4 /* TodoeyCoreData.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = TodoeyCoreData.xcdatamodel; sourceTree = "<group>"; };
+		DA4D37A025936EC700BE2EAA /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		DAC7AF42257579F500172C6D /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
 		DAC7AF4425757AA800172C6D /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		DAE93C12257745C200EA8447 /* CategoryViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CategoryViewController.swift; sourceTree = "<group>"; };
@@ -50,6 +52,7 @@
 		DA22AEFD2573C004004B33A7 = {
 			isa = PBXGroup;
 			children = (
+				DA4D37A025936EC700BE2EAA /* README.md */,
 				DAC7AF42257579F500172C6D /* Default-568h@2x.png */,
 				DA22AF082573C005004B33A7 /* Todoey */,
 				DA22AF072573C005004B33A7 /* Products */,
@@ -166,6 +169,7 @@
 			files = (
 				DA22AF162573C008004B33A7 /* LaunchScreen.storyboard in Resources */,
 				DAC7AF43257579F500172C6D /* Default-568h@2x.png in Resources */,
+				DA4D37A125936EC800BE2EAA /* README.md in Resources */,
 				DA22AF132573C008004B33A7 /* Assets.xcassets in Resources */,
 				DA22AF112573C005004B33A7 /* Main.storyboard in Resources */,
 			);
